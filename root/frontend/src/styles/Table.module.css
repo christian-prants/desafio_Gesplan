@@ -1,0 +1,35 @@
+.t_fornecedores table {
+    width: 100%;
+    overflow-y: scroll;
+    display: block;
+    text-align: left;
+    border: none;
+    border-collapse: collapse;
+}
+
+.t_fornecedores table tbody {
+    width: 100%;  
+    display: table; 
+}
+
+.t_fornecedores table tr {
+    color: #19180a;
+    font-size: .8rem;
+    border-bottom: .1rem solid #19180a;
+}
+
+.t_fornecedores h2 {
+    font-size: 1.5rem;
+}
+
+.t_head td {
+    background-color: #19180a;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.checkbox {
+    text-align: center;
+    vertical-align: middle;
+}
